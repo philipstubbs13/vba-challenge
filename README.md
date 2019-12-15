@@ -57,12 +57,12 @@ Here are screenshots of what the output looks like when I ran the scripts on my 
 
 ### 2014 Stock Data
 
-![Image of 2014 Stock Data](./screenshots/2014_stock_data.png)
+![Image of 2014 Stock Data](./VBAStocks/screenshots/2014_stock_data.png)
 
 ### 2015 Stock Data
 
-![Image of 2015 Stock Data](./screenshots/2015_stock_data.png)
+![Image of 2015 Stock Data](./VBAStocks/screenshots/2015_stock_data.png)
 
 ### 2016 Stock Data
 
-![Image of 2016 Stock Data](./screenshots/2016_stock_data.png)
+![Image of 2016 Stock Data](./VBAStocks/screenshots/2016_stock_data.png)
